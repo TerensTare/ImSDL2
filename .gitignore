@@ -1,0 +1,4 @@
+.vscode
+build
+vcpkg.json
+CMakeLists.txt
